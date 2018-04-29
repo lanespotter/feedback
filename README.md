@@ -10,3 +10,5 @@ Thanks for contributing. Together, we know we can build something that can make 
 
 Ride on!
 LaneSpotter Team
+
+Oh, and if you're an engineer who's interested in helping out, we're always interested in talking. Hit us up at lynsie@lanespotter.bike.
